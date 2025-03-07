@@ -17,6 +17,6 @@
     .slide {
         scroll-snap-align: start;
             height: auto
-            width: 100px;
+            width: auto;
 
             }
